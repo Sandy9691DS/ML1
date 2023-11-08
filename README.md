@@ -1,2 +1,2 @@
-# ML1
-ML Practice 1
+#Assignment on placement.csv file
+#Assignment on Boston.csv file
